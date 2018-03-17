@@ -1,0 +1,23 @@
+{
+  "author": "yubin",
+  "name": "openvg_ttf",
+  "description": "Pure JS module to parse truetype for Open VG rendering",
+  "version": "0.1.0",
+  "main": "openvg_ttf.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yubin1026/openvg_ttf.git"
+  },
+  "homepage": "https://github.com/yubin1026/openvg_ttf",
+  "keywords": [
+    "ttf",
+    "truetype"
+    "openvg"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
